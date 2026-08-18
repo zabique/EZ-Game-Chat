@@ -7,6 +7,10 @@ A modern, high-performance in-game auto-typer and voice-line chat studio designe
 ![Platform](https://img.shields.io/badge/platform-Windows%2010%20%2F%2011-lightgrey.svg)
 ![License](https://img.shields.io/badge/license-MIT-green.svg)
 
+<p align="center">
+  <img src="screenshot.png" alt="EZ-Game-Chat UI Screenshot" width="850">
+</p>
+
 ---
 
 ## ✨ Features
