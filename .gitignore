@@ -1,0 +1,28 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+
+# Virtual Environments
+.venv/
+env/
+venv/
+ENV/
+
+# PyInstaller & Build Artifacts
+build/
+dist/
+Output/
+*.spec
+
+# Browser / Temp profiles
+chrome_debug_profile/
+
+# IDE / OS specific
+.vscode/
+.idea/
+Thumbs.db
+Desktop.ini
+.DS_Store
